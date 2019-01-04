@@ -2,9 +2,9 @@
 
 :hammer: Display supported version of JavaScript
 
-## Demo :tada:
+## Demo 🎉
 
-https://piecioshka.github.io/display-supported-version-of-javascript/
+<https://piecioshka.github.io/display-supported-version-of-javascript/>
 
 ## Credits
 
