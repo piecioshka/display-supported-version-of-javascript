@@ -1,8 +1,8 @@
 # display-supported-version-of-javascript
 
-:hammer: Display supported version of JavaScript
+🔨 Display supported version of JavaScript
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/display-supported-version-of-javascript/>
 
